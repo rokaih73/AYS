@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "75565420728",
+    "firebase_url": "https://aysproject-517f8.firebaseio.com",
+    "project_id": "aysproject-517f8",
+    "storage_bucket": "aysproject-517f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75565420728:android:bcbf95556c94f540",
+        "android_client_info": {
+          "package_name": "com.example.aysproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-7vNShzGQS5MJLWZTK2GipvmkepPc6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75565420728-7758hbrv6iacvkvhbp0llu4o61udjvg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
