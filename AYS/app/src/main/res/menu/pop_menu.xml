@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/comp_col_cof"
+    android:title="computer collage coffee"/>
+
+<item android:id="@+id/adm_col_cof"
+    android:title="business administration collage coffee"/>
+
+<item android:id="@+id/sci_col_cof"
+    android:title="science collage coffee"/>
+
+</menu>
